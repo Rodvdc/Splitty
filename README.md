@@ -3,6 +3,9 @@ Splitty is an expense management app that can be used to create and join events 
 
 <img src="client/src/main/resources/images/Splitty_Icon2.png" alt="App icon">
 
+
+By [Teodor Neagoe](https://github.com/Teoneag), [Nicolas Laplagne](https://github.com/nic0oLapla), [Noam Dickmann](https://github.com/noam3035), [Hugo Klijn](https://github.com/Thunderhugo), [Rodrigue Vande Capelle](https://github.com/Rodvdc), [Sofyan Ali Ali](https://github.com/Stunner070)
+
 ## Project Execution
 
 ### Starting the Server
